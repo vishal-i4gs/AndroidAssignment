@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+    <string name="photo_activity_label">Photo View</string>
+    <string name="submit_button_text">SUBMIT</string>
+</resources>
